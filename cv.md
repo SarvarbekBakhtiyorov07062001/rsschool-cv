@@ -5,5 +5,4 @@
 5. console.log('Hello, RS school');
 6. No experience
 7. Inha University in Tashkent
-
 8. B2 level
